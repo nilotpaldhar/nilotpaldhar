@@ -1,8 +1,8 @@
 # 🏄‍♂️ Nilotpal Dhar
 
-**`Full-stack Developer`**
+**`Front-end Developer`**
 
-I'm a **full-stack web developer** with a frontend focus, building performant, real-world applications using modern technologies like **Next.js**, **TypeScript**, and **Tailwind CSS**. I specialize in creating clean, maintainable UIs and I am currently expanding my skills on the backend.
+I'm a **front-end developer** building performant, real-world applications using modern technologies like **Next.js**, **TypeScript**, **Prisma**, and **Tailwind CSS**. I specialize in creating clean, maintainable UIs and I am currently expanding my skills on the backend.
 
 ---
 
