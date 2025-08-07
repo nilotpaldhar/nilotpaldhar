@@ -1,22 +1,23 @@
 # 🏄‍♂️ Nilotpal Dhar
 
-**`Front-end Developer`**
+**`Frontend Developer`**
 
-I'm a **front-end developer** building performant, real-world applications using modern technologies like **Next.js**, **TypeScript**, **Prisma**, and **Tailwind CSS**. I specialize in creating clean, maintainable UIs and I am currently expanding my skills on the backend.
+My journey into web development began in 2018 out of curiosity, starting with the basics and gradually advancing into modern frontend development. Since 2022, I've been actively designing, building, and deploying real‑world applications using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS** — with a strong focus on clean, maintainable, and user‑friendly interfaces.
+
+Notable projects include **StoreKeeper**, a headless e‑commerce platform, and **KwikChat**, a real‑time chat application — both built end‑to‑end from design in Figma to deployment. While frontend is my core strength, I'm expanding my skills in backend development with **Node.js**, **Express**, and **PostgreSQL** to take on more full‑stack work.
 
 ---
 
 ### 🔭 Currently Working On
 
-- Rebuilding my e-commerce app **Storekeeper** using **Next.js**, **Medusa**, **TypeScript**, and **Sanity v3**
-- Learning **Node.js**, **Express**, and **PostgreSQL** to deepen my backend capabilities
+- Learning **Node.js**, **Express**, and **PostgreSQL** to deepen backend capabilities
 
 ---
 
 ### 📬 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact.nilotpaldhar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilotpaldhar)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact.nilotpaldhar@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilotpaldhar)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilotpaldhar)
 
 💬 Want to collaborate or connect? [Open an issue here](https://github.com/nilotpaldhar/nilotpaldhar/issues) or message me on [LinkedIn](https://linkedin.com/in/nilotpaldhar).
